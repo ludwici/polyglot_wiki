@@ -16,6 +16,8 @@ And put your translation there in the file you want like this:
 }
 ```
 
+## Subfolders
+
 Starting with version 1.1 you can create subfolders for more convenient file management:
 
 [![image.png](https://i.postimg.cc/59kmd87c/image.png)](https://postimg.cc/YjYFQLB8)
